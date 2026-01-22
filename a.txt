@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-primer archivo version4
-=======
 primer archivo v5
->>>>>>> f5fef4a5f59d44f233a3ed7bdf3ccb0635f3cae8
