@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 archivo 2 version3
+=======
+archivo 2 v4
+>>>>>>> f5fef4a5f59d44f233a3ed7bdf3ccb0635f3cae8
